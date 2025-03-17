@@ -1,5 +1,6 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
+title: astrixo.net
+tagline: ""
+description: Future home of writeups, howtos, and projects
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
